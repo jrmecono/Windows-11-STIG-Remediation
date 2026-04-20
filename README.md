@@ -58,7 +58,7 @@ Each STIG was selected because it maps to a **real-world attack technique** used
 
 | Before | After |
 |--------|-------|
-| ![Before](screenshots/before/STIG-002_WN11-CC-000327_before.png) | ![After](screenshots/after/STIG-002_WN11-CC-000327_tenable_after.png) |
+| ![Before](https://github.com/jrmecono/Windows-11-STIG-Remediation/blob/main/WN11-CC-000327-Failed.png) | ![After](screenshots/after/STIG-002_WN11-CC-000327_tenable_after.png) |
 
 <details>
 <summary>📟 View PowerShell Output</summary>
