@@ -16,18 +16,6 @@ This project remediates **10 failed DISA STIG findings** discovered during a liv
 | **Method** | — | PowerShell (automated) |
 | **Evidence** | Tenable scan screenshots | Re-scan + terminal output |
 
----
-
-## 📸 Before & After
-
-### Tenable Scan — Before Remediation
-![Tenable overview before](screenshots/before/00_tenable-overview_before.png)
-
-### Tenable Scan — After Remediation
-![Tenable overview after](screenshots/after/00_tenable-overview_after.png)
-
-### PowerShell Summary — All 10 Scripts Passed
-![Terminal summary](screenshots/after/00_terminal-summary_after.png)
 
 ---
 
