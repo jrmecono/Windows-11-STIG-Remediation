@@ -54,7 +54,7 @@ Each STIG was selected because it maps to a **real-world attack technique** used
 
 **The fix:** Writes complete PS session records (input, output, errors) to `C:\PSTranscripts`. Transcript files survive log clearing — critical for post-incident forensics.
 
-**Script:** [`STIG-002_WN11-CC-000327_PSTranscription.ps1`](scripts/STIG-002_WN11-CC-000327_PSTranscription.ps1)
+**Script:** [`STIG-002_WN11-CC-000327_PSTranscription.ps1`](https://github.com/jrmecono/Windows-11-STIG-Remediation/blob/main/STIG-002_WN11-CC-000327_PSTranscription.ps1)
 
 | Before | After |
 |--------|-------|
