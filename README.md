@@ -63,7 +63,7 @@ Each STIG was selected because it maps to a **real-world attack technique** used
 <details>
 <summary>📟 View PowerShell Output</summary>
 
-![Terminal output](screenshots/after/STIG-002_WN11-CC-000327_terminal_after.png)
+![Terminal output](https://github.com/jrmecono/Windows-11-STIG-Remediation/blob/main/WN11-CC-000326-PS-output.png)
 
 </details>
 
