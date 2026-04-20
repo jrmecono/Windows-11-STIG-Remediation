@@ -32,7 +32,7 @@ Each STIG was selected because it maps to a **real-world attack technique** used
 
 **The fix:** Enables Event ID **4104**, which captures the *decoded* content of every PS command executed — including payloads that were obfuscated before delivery.
 
-**Script:** [`STIG-001_WN11-CC-000326_PSScriptBlockLogging.ps1`](scripts/STIG-001_WN11-CC-000326_PSScriptBlockLogging.ps1)
+**Script:** [`STIG-001_WN11-CC-000326_PSScriptBlockLogging.ps1`](https://github.com/jrmecono/Windows-11-STIG-Remediation/blob/main/STIG-001_WN11-CC-000326_PSScriptBlockLogging.ps1)
 
 | Before | After |
 |--------|-------|
